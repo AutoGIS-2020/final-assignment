@@ -8,7 +8,6 @@ Once you are finished with the final assignment, edit this readme and add "x" to
 
 * [x] I'm still working on my final assignment. 
 
-*All submissions will be checked after the final deadline regardless of these checkboxes.*
 
 ### Instructions
 
