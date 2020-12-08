@@ -33,3 +33,8 @@ Fill in details of your final project below. You can remove this instructions-se
 
 ### References:
 
+*edit according to your submission:*
+- Literature related to the topic
+- Links to websites, tutorials books or articles that you found useful
+- If you got help from your course mates (or collaborated with someone) please mention it in here.
+
